@@ -1,0 +1,13 @@
+C:\Users\Matteo\source\repos\prova\prova\bin\Debug\prova.exe.config
+C:\Users\Matteo\source\repos\prova\prova\bin\Debug\prova.exe
+C:\Users\Matteo\source\repos\prova\prova\bin\Debug\prova.pdb
+C:\Users\Matteo\source\repos\prova\prova\bin\Debug\prova.xml
+C:\Users\Matteo\source\repos\prova\prova\obj\Debug\prova.vbproj.AssemblyReference.cache
+C:\Users\Matteo\source\repos\prova\prova\obj\Debug\prova.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Matteo\source\repos\prova\prova\obj\Debug\prova.Form1.resources
+C:\Users\Matteo\source\repos\prova\prova\obj\Debug\prova.Resources.resources
+C:\Users\Matteo\source\repos\prova\prova\obj\Debug\prova.vbproj.GenerateResource.cache
+C:\Users\Matteo\source\repos\prova\prova\obj\Debug\prova.vbproj.CoreCompileInputs.cache
+C:\Users\Matteo\source\repos\prova\prova\obj\Debug\prova.exe
+C:\Users\Matteo\source\repos\prova\prova\obj\Debug\prova.xml
+C:\Users\Matteo\source\repos\prova\prova\obj\Debug\prova.pdb
